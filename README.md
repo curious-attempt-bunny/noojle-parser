@@ -2,14 +2,22 @@
 
 Parses an npm package for its key API information
 
-# Usage
+# API Installation
+
+    npm install noojle-parser
+
+# API Usage
 
     var parser = require('noojle-parser');
     parser(packageName, function(error, packageData) { console.log(packageData.signature); );
 
-# Installation
+# Tool Installation
 
-    npm install noojle-parser
+    npm install -g noojle-parser
+
+# Tool Usage
+
+    noojle <package name>
 
 # License
 
