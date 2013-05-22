@@ -1,13 +1,13 @@
 {
   "name": "noojle-parser",
   "description": "Parses an npm package for its key API information",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "url": "git://github.com/curious-attempt-bunny/noojle-parser.git"
   },
   "main": "index.js",
   "bin": {
-    "nooje": "bin/noojle.js"
+    "noojle": "bin/noojle.js"
   },
   "scripts": {
     "test": "tap test/*.js"
