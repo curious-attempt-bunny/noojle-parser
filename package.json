@@ -1,7 +1,7 @@
 {
   "name": "noojle-parser",
   "description": "Parses an npm package for its key API information",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "repository": {
     "url": "git://github.com/curious-attempt-bunny/noojle-parser.git"
   },
